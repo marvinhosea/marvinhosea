@@ -1,21 +1,17 @@
 ### Hi there, 
 ### I am [Marvin Collins Hosea](https://marvinhosea.pro)
 
-## And I'm a Software Engineer ! - [![](https://komarev.com/ghpvc/?username=marvinhosea&label=Views&color=brightgreen&style=plastic)](https://github.com/marvinhosea)
+## And I'm a Software Engineer! - [![](https://komarev.com/ghpvc/?username=marvinhosea&label=Views&color=brightgreen&style=plastic)](https://github.com/marvinhosea)
 
-- 🔭  I’m a Software Engineer
 - 💬  Ask me about (System design, DevOps, Golang, PHP, ReactJS, GitOps, Team/Product Lead)
 - 🌱  I’m currently focusing on distributed systems and SRE.
-- 🥅  Contribute more to Open Source projects
+- 🥅  Trying to contribute more to Open Source projects
 - ⚡   Fun fact: IndieHacker and Solo.
 
 
-<a href="https://www.linkedin.com/in/esmaeel-nabil-1813649b/">
-  <img align="center" src="https://github-readme-stats-amber-one.vercel.app/api?username=esmaeelnabil&show_icons=true" />
-</a>
-<a href="https://www.linkedin.com/in/esmaeel-nabil-1813649b/">
-  <img align="center" src="https://github-readme-stats-amber-one.vercel.app/api/top-langs/?username=esmaeelnabil&layout=compact" />
-</a>
+
+<img align="center" src="https://github-readme-stats-amber-one.vercel.app/api?username=marvinhosea&show_icons=true" />
+<img align="center" src="https://github-readme-stats-amber-one.vercel.app/api/top-langs/?username=esmaeelnabil&layout=compact" />
 
 
 
