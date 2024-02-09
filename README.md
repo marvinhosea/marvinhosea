@@ -22,4 +22,4 @@
 
 
 
-[twitter]: https://twitter.com/NomadSEG
+[twitter]: https://twitter.com/marvin_hosea
