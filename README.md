@@ -1,7 +1,7 @@
 ### Hi there, 
 ### I am [Marvin Collins Hosea](https://marvinhosea.pro)
 
-## And I'm a Software Engineer ! - [![](https://komarev.com/ghpvc/?username=EsmaeelNabil&label=Views&color=brightgreen&style=plastic)](https://github.com/EsmaeelNabil)
+## And I'm a Software Engineer ! - [![](https://komarev.com/ghpvc/?username=marvinhosea&label=Views&color=brightgreen&style=plastic)](https://github.com/marvinhosea)
 
 - 🔭  I’m a Software Engineer
 - 💬  Ask me about (System design, DevOps, Golang, PHP, ReactJS, GitOps, Team/Product Lead)
